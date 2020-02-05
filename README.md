@@ -16,16 +16,16 @@ Clone this repository:
 
 To use this module, add it to the modules array in the `config/config.js` file:
 
-```json
+```js
 modules: [
   {
-    module: 'MMM-Ecosia-Tree-Counter',
-    position: 'top_right', // any region
+    module: "MMM-Ecosia-Tree-Counter",
+    position: "top_right", // any region
     config: {
       // TODO
     }
   }
-]
+];
 ```
 
 ## Configuration options
